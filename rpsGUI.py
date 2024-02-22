@@ -74,4 +74,5 @@ Button(master,text="Scissors",width=15,command=lambda:outcome_handler("scissors"
 #Dummy label 
 Label(master).grid(row=5)
 
+#Completion of the loop
 master.mainloop()
