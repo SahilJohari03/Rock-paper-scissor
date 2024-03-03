@@ -1,7 +1,7 @@
 import random
 from tkinter import *
 
-#dictionaries and vars
+#dictionaries 
 outcomes = {
     "rock":{"rock":1,"paper":0,"scissors":2}, # tie, lose, win
     "paper":{"rock":2,"paper":1,"scissors":0}, # win, tie, lose
